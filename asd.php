@@ -10,7 +10,7 @@ $use_auth = true;
 
 $auth_users = array(
 
-    'admin' => '$2y$10$350.eU7WnoA2p4rZdZylxOTOSBlAnGOe/QCYV37G.AC23s1PidKnC',
+    'admin' => '$2a$12$0WTVdXNwujNMMZ8mq9GU/uQlJKgha8sc1sHILJsTSZFN1dz5JIQZK',
 
 );
 
